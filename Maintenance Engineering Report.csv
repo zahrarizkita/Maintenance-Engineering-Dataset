@@ -1,0 +1,100 @@
+KODE JADWAL;TANGGAL;BULAN;TAHUN;NAMA MESIN;LOKASI;TINDAKAN;JENIS TINDAKAN;PRIORITAS;KARYAWAN;TANGGAL SELESAI
+KJ001;16-Apr-18;Apr;2018;Mesin 3;Cirebon;Tindakan 01;Inspeksi;Tinggi;Karyawan 01;23-Apr-18
+KJ002;11-Dec-20;Dec;2020;Mesin 3;Cirebon;Tindakan 02;Inspeksi;Tinggi;Karyawan 02;18-Dec-20
+KJ003;8-Mar-19;Mar;2019;Mesin 1;Cirebon;Tindakan 03;Inspeksi;Tinggi;Karyawan 03;15-Mar-19
+KJ004;19-Nov-18;Nov;2018;Mesin 4;Cirebon;Tindakan 04;Penggantian;Tinggi;Karyawan 04;26-Nov-18
+KJ005;6-Jan-19;Jan;2019;Mesin 3;Cirebon;Tindakan 05;Penggantian;Tinggi;Karyawan 05;13-Jan-19
+KJ006;22-Jun-19;Jun;2019;Mesin 4;Cirebon;Tindakan 06;Penggantian;Tinggi;Karyawan 06;29-Jun-19
+KJ007;28-Jun-20;Jun;2020;Mesin 2;Cirebon;Tindakan 07;Pembersihan;Rendah;Karyawan 07;5-Jul-20
+KJ008;16-Nov-20;Nov;2020;Mesin 1;Cirebon;Tindakan 08;Pembersihan;Rendah;Karyawan 08;23-Nov-20
+KJ009;28-May-19;May;2019;Mesin 1;Cirebon;Tindakan 09;Pembersihan;Rendah;Karyawan 09;4-Jun-19
+KJ010;23-Apr-18;Apr;2018;Mesin 2;Cirebon;Tindakan 10;kalibrasi;Sedang ;Karyawan 10;30-Apr-18
+KJ011;20-Jun-19;Jun;2019;Mesin 6;Cirebon;Tindakan 11;kalibrasi;Sedang ;Karyawan 11;27-Jun-19
+KJ012;7-Sep-21;Sep;2021;Mesin 6;Cirebon;Tindakan 12;kalibrasi;Sedang ;Karyawan 12;14-Sep-21
+KJ013;15-Oct-21;Oct;2021;Mesin 1;Cirebon;Tindakan 01;Inspeksi;Tinggi;Karyawan 13;22-Oct-21
+KJ014;11-Jun-19;Jun;2019;Mesin 3;Cirebon;Tindakan 02;Inspeksi;Tinggi;Karyawan 14;18-Jun-19
+KJ015;26-Dec-20;Dec;2020;Mesin 3;Cirebon;Tindakan 03;Inspeksi;Tinggi;Karyawan 15;2-Jan-21
+KJ016;8-Nov-18;Nov;2018;Mesin 6;Cirebon;Tindakan 04;Penggantian;Tinggi;Karyawan 16;15-Nov-18
+KJ017;11-Dec-18;Dec;2018;Mesin 3;Cirebon;Tindakan 05;Penggantian;Tinggi;Karyawan 17;18-Dec-18
+KJ018;21-Dec-21;Dec;2021;Mesin 6;Cirebon;Tindakan 06;Penggantian;Tinggi;Karyawan 18;28-Dec-21
+KJ019;3-Oct-19;Oct;2019;Mesin 6;Cirebon;Tindakan 07;Pembersihan;Rendah;Karyawan 19;10-Oct-19
+KJ020;14-Nov-20;Nov;2020;Mesin 5;Cirebon;Tindakan 08;Pembersihan;Rendah;Karyawan 20;21-Nov-20
+KJ021;5-Jun-20;Jun;2020;Mesin 6;Majalengka;Tindakan 09;Pembersihan;Rendah;Karyawan 01;12-Jun-20
+KJ022;1-Mar-18;Mar;2018;Mesin 3;Majalengka;Tindakan 10;kalibrasi;Sedang ;Karyawan 02;8-Mar-18
+KJ023;12-Jun-18;Jun;2018;Mesin 4;Majalengka;Tindakan 11;kalibrasi;Sedang ;Karyawan 03;19-Jun-18
+KJ024;3-Sep-20;Sep;2020;Mesin 1;Majalengka;Tindakan 12;kalibrasi;Sedang ;Karyawan 04;10-Sep-20
+KJ025;17-Oct-21;Oct;2021;Mesin 5;Majalengka;Tindakan 01;Inspeksi;Tinggi;Karyawan 05;24-Oct-21
+KJ026;3-Aug-19;Aug;2019;Mesin 4;Majalengka;Tindakan 02;Inspeksi;Tinggi;Karyawan 06;10-Aug-19
+KJ027;22-May-18;May;2018;Mesin 6;Majalengka;Tindakan 03;Inspeksi;Tinggi;Karyawan 07;29-May-18
+KJ028;23-Jul-18;Jul;2018;Mesin 2;Majalengka;Tindakan 04;Penggantian;Tinggi;Karyawan 08;30-Jul-18
+KJ029;17-Jan-20;Jan;2020;Mesin 3;Majalengka;Tindakan 05;Penggantian;Tinggi;Karyawan 09;24-Jan-20
+KJ030;30-Mar-20;Mar;2020;Mesin 3;Majalengka;Tindakan 06;Penggantian;Tinggi;Karyawan 10;6-Apr-20
+KJ031;27-Jun-21;Jun;2021;Mesin 1;Majalengka;Tindakan 07;Pembersihan;Rendah;Karyawan 11;4-Jul-21
+KJ032;20-May-19;May;2019;Mesin 6;Majalengka;Tindakan 08;Pembersihan;Rendah;Karyawan 12;27-May-19
+KJ033;25-Apr-21;Apr;2021;Mesin 4;Majalengka;Tindakan 09;Pembersihan;Rendah;Karyawan 13;2-May-21
+KJ034;26-Oct-21;Oct;2021;Mesin 5;Majalengka;Tindakan 10;kalibrasi;Sedang ;Karyawan 14;2-Nov-21
+KJ035;9-Mar-19;Mar;2019;Mesin 4;Majalengka;Tindakan 11;kalibrasi;Sedang ;Karyawan 15;16-Mar-19
+KJ036;9-Feb-18;Feb;2018;Mesin 2;Majalengka;Tindakan 12;kalibrasi;Sedang ;Karyawan 16;16-Feb-18
+KJ037;6-Mar-19;Mar;2019;Mesin 5;Majalengka;Tindakan 05;Penggantian;Tinggi;Karyawan 17;13-Mar-19
+KJ038;30-Dec-18;Dec;2018;Mesin 6;Majalengka;Tindakan 06;Penggantian;Tinggi;Karyawan 18;6-Jan-19
+KJ039;25-Oct-20;Oct;2020;Mesin 3;Majalengka;Tindakan 07;Pembersihan;Rendah;Karyawan 19;1-Nov-20
+KJ040;7-Apr-21;Apr;2021;Mesin 2;Majalengka;Tindakan 08;Pembersihan;Rendah;Karyawan 20;14-Apr-21
+KJ041;5-Dec-19;Dec;2019;Mesin 4;Indramayu;Tindakan 09;Pembersihan;Rendah;Karyawan 10;12-Dec-19
+KJ042;19-May-18;May;2018;Mesin 3;Indramayu;Tindakan 10;kalibrasi;Sedang ;Karyawan 11;26-May-18
+KJ043;16-Jan-18;Jan;2018;Mesin 4;Indramayu;Tindakan 11;kalibrasi;Sedang ;Karyawan 12;23-Jan-18
+KJ044;6-May-18;May;2018;Mesin 1;Indramayu;Tindakan 12;kalibrasi;Sedang ;Karyawan 13;13-May-18
+KJ045;11-Sep-18;Sep;2018;Mesin 1;Indramayu;Tindakan 01;Inspeksi;Tinggi;Karyawan 14;18-Sep-18
+KJ046;28-Jul-18;Jul;2018;Mesin 5;Indramayu;Tindakan 02;Inspeksi;Tinggi;Karyawan 15;4-Aug-18
+KJ047;6-Dec-21;Dec;2021;Mesin 4;Indramayu;Tindakan 03;Inspeksi;Tinggi;Karyawan 16;13-Dec-21
+KJ048;18-Dec-19;Dec;2019;Mesin 4;Indramayu;Tindakan 04;Penggantian;Tinggi;Karyawan 17;25-Dec-19
+KJ049;21-Jul-19;Jul;2019;Mesin 6;Indramayu;Tindakan 05;Penggantian;Tinggi;Karyawan 18;28-Jul-19
+KJ050;21-Sep-19;Sep;2019;Mesin 1;Indramayu;Tindakan 06;Penggantian;Tinggi;Karyawan 19;28-Sep-19
+KJ051;25-Sep-20;Sep;2020;Mesin 6;Indramayu;Tindakan 07;Pembersihan;Rendah;Karyawan 20;2-Oct-20
+KJ052;14-Apr-19;Apr;2019;Mesin 2;Indramayu;Tindakan 08;Pembersihan;Rendah;Karyawan 01;21-Apr-19
+KJ053;21-Jul-19;Jul;2019;Mesin 6;Indramayu;Tindakan 09;Pembersihan;Rendah;Karyawan 02;28-Jul-19
+KJ054;20-Apr-18;Apr;2018;Mesin 1;Indramayu;Tindakan 10;kalibrasi;Sedang ;Karyawan 03;27-Apr-18
+KJ055;15-Aug-21;Aug;2021;Mesin 2;Indramayu;Tindakan 11;kalibrasi;Sedang ;Karyawan 04;22-Aug-21
+KJ056;28-Mar-21;Mar;2021;Mesin 2;Indramayu;Tindakan 12;kalibrasi;Sedang ;Karyawan 05;4-Apr-21
+KJ057;31-Jan-21;Jan;2021;Mesin 3;Indramayu;Tindakan 01;Inspeksi;Tinggi;Karyawan 06;7-Feb-21
+KJ058;15-Sep-20;Sep;2020;Mesin 6;Indramayu;Tindakan 02;Inspeksi;Tinggi;Karyawan 07;22-Sep-20
+KJ059;3-May-18;May;2018;Mesin 3;Indramayu;Tindakan 03;Inspeksi;Tinggi;Karyawan 08;10-May-18
+KJ060;1-Jan-21;Jan;2021;Mesin 1;Indramayu;Tindakan 04;Penggantian;Tinggi;Karyawan 09;8-Jan-21
+KJ061;25-Jan-19;Jan;2019;Mesin 1;Kuningan;Tindakan 05;Penggantian;Tinggi;Karyawan 10;1-Feb-19
+KJ062;19-Jan-18;Jan;2018;Mesin 4;Kuningan;Tindakan 06;Penggantian;Tinggi;Karyawan 11;26-Jan-18
+KJ063;10-Mar-21;Mar;2021;Mesin 4;Kuningan;Tindakan 07;Pembersihan;Rendah;Karyawan 12;17-Mar-21
+KJ064;20-Jul-18;Jul;2018;Mesin 3;Kuningan;Tindakan 01;Inspeksi;Tinggi;Karyawan 13;27-Jul-18
+KJ065;23-Feb-21;Feb;2021;Mesin 2;Kuningan;Tindakan 02;Inspeksi;Tinggi;Karyawan 10;2-Mar-21
+KJ066;17-Aug-19;Aug;2019;Mesin 3;Kuningan;Tindakan 03;Inspeksi;Tinggi;Karyawan 11;24-Aug-19
+KJ067;3-Oct-19;Oct;2019;Mesin 2;Kuningan;Tindakan 04;Penggantian;Tinggi;Karyawan 12;10-Oct-19
+KJ068;27-Feb-18;Feb;2018;Mesin 6;Kuningan;Tindakan 05;Penggantian;Tinggi;Karyawan 13;6-Mar-18
+KJ069;8-Jun-20;Jun;2020;Mesin 3;Kuningan;Tindakan 06;Penggantian;Tinggi;Karyawan 14;15-Jun-20
+KJ070;18-Jun-20;Jun;2020;Mesin 2;Kuningan;Tindakan 07;Pembersihan;Rendah;Karyawan 15;25-Jun-20
+KJ071;20-May-18;May;2018;Mesin 5;Kuningan;Tindakan 10;kalibrasi;Sedang ;Karyawan 16;27-May-18
+KJ072;15-Jun-20;Jun;2020;Mesin 5;Kuningan;Tindakan 11;kalibrasi;Sedang ;Karyawan 17;22-Jun-20
+KJ073;18-Apr-19;Apr;2019;Mesin 3;Kuningan;Tindakan 12;kalibrasi;Sedang ;Karyawan 18;25-Apr-19
+KJ074;9-Nov-18;Nov;2018;Mesin 6;Kuningan;Tindakan 01;Inspeksi;Tinggi;Karyawan 19;16-Nov-18
+KJ075;14-Oct-21;Oct;2021;Mesin 2;Kuningan;Tindakan 02;Inspeksi;Tinggi;Karyawan 20;21-Oct-21
+KJ076;25-Oct-21;Oct;2021;Mesin 6;Cirebon;Tindakan 03;Inspeksi;Tinggi;Karyawan 01;1-Nov-21
+KJ077;8-Mar-19;Mar;2019;Mesin 2;Cirebon;Tindakan 04;Penggantian;Tinggi;Karyawan 02;15-Mar-19
+KJ078;13-Nov-18;Nov;2018;Mesin 4;Cirebon;Tindakan 05;Penggantian;Tinggi;Karyawan 03;20-Nov-18
+KJ079;17-Dec-20;Dec;2020;Mesin 2;Cirebon;Tindakan 06;Penggantian;Tinggi;Karyawan 04;24-Dec-20
+KJ080;19-Dec-19;Dec;2019;Mesin 3;Cirebon;Tindakan 07;Pembersihan;Rendah;Karyawan 05;26-Dec-19
+KJ081;21-Nov-21;Nov;2021;Mesin 5;Cirebon;Tindakan 08;Pembersihan;Rendah;Karyawan 06;28-Nov-21
+KJ082;3-Jul-18;Jul;2018;Mesin 3;Cirebon;Tindakan 09;Pembersihan;Rendah;Karyawan 07;10-Jul-18
+KJ083;7-Mar-18;Mar;2018;Mesin 4;Majalengka;Tindakan 10;kalibrasi;Sedang ;Karyawan 08;14-Mar-18
+KJ084;26-Jan-21;Jan;2021;Mesin 2;Majalengka;Tindakan 04;Penggantian;Tinggi;Karyawan 09;2-Feb-21
+KJ085;31-Mar-19;Mar;2019;Mesin 3;Majalengka;Tindakan 05;Penggantian;Tinggi;Karyawan 10;7-Apr-19
+KJ086;23-Sep-20;Sep;2020;Mesin 4;Majalengka;Tindakan 06;Penggantian;Tinggi;Karyawan 11;30-Sep-20
+KJ087;16-Nov-21;Nov;2021;Mesin 3;Majalengka;Tindakan 07;Pembersihan;Rendah;Karyawan 12;23-Nov-21
+KJ088;14-Nov-20;Nov;2020;Mesin 3;Majalengka;Tindakan 01;Inspeksi;Tinggi;Karyawan 13;21-Nov-20
+KJ089;2-Nov-21;Nov;2021;Mesin 1;Majalengka;Tindakan 10;kalibrasi;Sedang ;Karyawan 13;9-Nov-21
+KJ090;4-May-19;May;2019;Mesin 6;Majalengka;Tindakan 11;kalibrasi;Sedang ;Karyawan 02;11-May-19
+KJ091;2-Mar-18;Mar;2018;Mesin 5;Majalengka;Tindakan 12;kalibrasi;Sedang ;Karyawan 03;9-Mar-18
+KJ092;17-Feb-18;Feb;2018;Mesin 1;Majalengka;Tindakan 01;Inspeksi;Tinggi;Karyawan 04;24-Feb-18
+KJ093;8-Jun-20;Jun;2020;Mesin 3;Majalengka;Tindakan 02;Inspeksi;Tinggi;Karyawan 05;15-Jun-20
+KJ094;7-Jun-21;Jun;2021;Mesin 5;Majalengka;Tindakan 07;Pembersihan;Rendah;Karyawan 06;14-Jun-21
+KJ095;21-Dec-20;Dec;2020;Mesin 4;Majalengka;Tindakan 08;Pembersihan;Rendah;Karyawan 07;28-Dec-20
+KJ096;11-Mar-21;Mar;2021;Mesin 3;Cirebon;Tindakan 09;Pembersihan;Rendah;Karyawan 08;18-Mar-21
+KJ097;30-May-18;May;2018;Mesin 4;Cirebon;Tindakan 10;kalibrasi;Sedang ;Karyawan 09;6-Jun-18
+KJ098;25-May-20;May;2020;Mesin 6;Cirebon;Tindakan 11;kalibrasi;Sedang ;Karyawan 10;1-Jun-20
+KJ099;8-Nov-21;Nov;2021;Mesin 4;Majalengka;Tindakan 12;kalibrasi;Sedang ;Karyawan 11;15-Nov-21
